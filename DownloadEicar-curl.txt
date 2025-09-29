@@ -1,0 +1,1 @@
+Invoke-WebRequest  "https://www.eicar.org/download/eicar_com-zip/?wpdmdl=8847&refresh=65d4b58cc7e0e1708438924" -OutFile c:\temp\test.zip
